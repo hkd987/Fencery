@@ -4,7 +4,7 @@
   "description": "A geofence helper libary for real time checking of location",
   "main": "app.js",
   "scripts": {
-    "test": "standard && node test/app.test.js"
+    "test": "standard --fix && node test/app.test.js"
   },
   "devDependencies": {
     "standard": "*"

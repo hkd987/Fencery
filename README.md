@@ -1,4 +1,7 @@
 # Fencery
+[![Maintainability](https://api.codeclimate.com/v1/badges/850440183c8df33c70b7/maintainability)](https://codeclimate.com/github/hkd987/Fencery/maintainability)
+
+
 A small helper to allow the developer to set up a geo-fence and determine if a input is inside the fence.
 This helper has zero dependents and will always try to be kept that way.
 ***
