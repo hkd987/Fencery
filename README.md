@@ -1,10 +1,10 @@
 # Fencery
 A small helper to allow the developer to set up a geo-fence and determine if a input is inside the fence.
-This helper has zero dependents and will always try to be kept that way. 
+This helper has zero dependents and will always try to be kept that way.
 ***
 ## Usage
 ```javascript
-import FENCE from 'fencery'
+const FENCE = require('fencery')
 
 const backyard = new FENCE([
   {

@@ -1,6 +1,6 @@
 {
   "name": "fencery",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A geofence helper libary for real time checking of location",
   "main": "app.js",
   "scripts": {
