@@ -1,0 +1,19 @@
+{
+  "name": "fencery",
+  "version": "1.0.0",
+  "description": "A geofence helper libary for real time checking of location",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkd987/Fencery.git"
+  },
+  "author": "Lundin Matthews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkd987/Fencery/issues"
+  },
+  "homepage": "https://github.com/hkd987/Fencery#readme"
+}
