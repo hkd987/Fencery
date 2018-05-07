@@ -1,4 +1,6 @@
 export class FENCE {
+  // https://www.movable-type.co.uk/scripts/latlong.html
+  // This was a huge help in making this lib
   constructor (data) {
     // this will be an array of objects
     /*
