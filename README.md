@@ -20,7 +20,7 @@ const backyard = new FENCE([
 ])
 
 // RETURNS A TURE ?? FALSE
-const check = FENCE.isInside({
+const check = backyard.isInside({
   latitude: 11.11111,
   longitude: 11.11111
 })
